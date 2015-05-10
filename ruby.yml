@@ -1,4 +1,12 @@
 ####################################################
 # Ruby (Open Source) Apps & Command Line Tools
 
+- title:       "sportweb - Instant Open Sports Web Browser (Server) e.g. Use $ sportweb football.db"
+  screenshot:  sportweb-320x240.png
+  github:      sportdb/sport.db.web
+
+- title:       "world.db.codes - 250 Country Codes (Alpha2, Alpha3, TLDs, etc.) - Sinatra Web App"
+  screenshot:  country-codes-320x240.png
+  github:      worlddb/world.db.codes
+  demo_url:    http://countrycodes.herokuapp.com
 

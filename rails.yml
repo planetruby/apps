@@ -1,4 +1,8 @@
 ##########################################
 # Ruby on Ruby (Open Source) Web Apps
 
+- title:       "Beer-A-Day - Open Data 'Eternal' Page-A-Day Calendar - beer.db Web App in Ruby on Rails"
+  screenshot:  beer-a-day-320x240.png
+  github:      beerkit/beer.db.day
+  demo_url:    http://at365.herokuapp.com
 
